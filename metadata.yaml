@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/585
     wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17937#The-Thin-Santa-ClausThe-Chicken-Yard-That-Was-a-Christmas-Stocking
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2006-03-06'
 gutenberg_type: Text
