@@ -1,0 +1,35 @@
+_repo: The-Thin-Santa-ClausThe-Chicken-Yard-That-Was-a-Christmas-Stocking_17937
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Preston, May Wilson
+    birthdate: 1873
+    deathdate: 1949
+    gutenberg_agent_id: '7318'
+    url: http://www.gutenberg.org/2009/agents/7318
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Ellis Parker
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '585'
+    url: http://www.gutenberg.org/2009/agents/585
+    wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+title: 'The Thin Santa Claus: The Chicken Yard That Was a Christmas Stocking'
+url: http://www.gutenberg.org/ebooks/17937
